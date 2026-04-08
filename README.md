@@ -30,6 +30,22 @@ This project combines aviation maintenance logs, engineered features, and predic
 6. Maintenance risk classification
 7. Results interpretation
 
+## Screenshots
+
+### EDA Chart
+![EDA chart](Images/EDA chart.jpg)
+
+### Model Workflow
+![Model workflow diagram](Images/Model workflow diagram 2.jpg)
+
+### Maintenance Window Output
+![Maintenance window output](Images/Maintenance-window output.jpg)
+
+### AOG Risk Band
+![AOG risk band](Images/AOG risk band.jpg)
+
+### Architecture View
+![Architecture view](Images/Architecture view showing Databricks + AWS S3 + model flow.jpg)
 ## Key Features
 - LSTM-based predictive modeling
 - Maintenance window grouping
